@@ -8,7 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/* HEADER / NAV BAR STYLES */
+/* HEADER / NAV BAR STYLES START */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -53,6 +53,7 @@ p {
 }
 /* HEADER / NAV BAR STYLES END */
 
+/* HERO STYLE START */
 .hero {
   height: 800px;
   width: 100%;
@@ -61,6 +62,7 @@ p {
   background-size: cover;
   background-position: center;
 }
+/* HERO STYLE END */
 
 /* SERVICES STYLE START */
 .services {
