@@ -132,12 +132,12 @@ p {
 /*  FOOTER END */
 
 /* UTILITIES */
-.float-left {
+.text-left {
   float: left;
   margin-right: 25px;
 }
 
-.float-right {
+.text-right {
   float: right;
   margin-left: 25px;
 }
