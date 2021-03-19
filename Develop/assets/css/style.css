@@ -117,6 +117,7 @@ p {
 }
 /* BENEFITS STYLE END */
 
+/* FOOTER */
 .footer {
   padding: 30px;
   clear: both;
@@ -128,6 +129,8 @@ p {
 .footer h2 {
   font-size: 20px;
 }
+/*  FOOTER END */
+
 /* UTILITIES */
 .float-left {
   float: left;
