@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A website that offers online marketing tools.
+Refactored the HTML and CSS properties to follow semantic structure.
 
 ## Built With
 
